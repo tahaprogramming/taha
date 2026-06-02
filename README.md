@@ -1,69 +1,96 @@
-# 🌌 Taha (tahaprogramming)
-### `Cyber Security Researcher | Offensive Tool Developer | Web Pentester`
-
+<!-- HEADER START -->
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tahaprogramming&label=RECON%20TRAFFIC&color=238636&style=flat-square)](https://github.com/tahaprogramming)
-[![GitHub Follow](https://img.shields.io/github/followers/tahaprogramming?label=Followers&style=flat-square&color=238636)](https://github.com/tahaprogramming)
+# 🌌 TAHA
+### `SECURITY RESEARCHER & OFFENSIVE TOOL DEVELOPER`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
+</p>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tahaprogramming&label=SYSTEM%20RECON&color=00e5ff&style=flat-square)](https://github.com/tahaprogramming)
+[![GitHub Follow](https://img.shields.io/github/followers/tahaprogramming&label=FOLLOW&style=flat-square&color=00e5ff)](https://github.com/tahaprogramming)
+[![Active Security](https://img.shields.io/badge/Security-Offensive--Focus-red?style=flat-square)](https://github.com/tahaprogramming)
 
 </div>
+<!-- HEADER END -->
 
-```yaml
-- Name: Taha
-- Role: Security Researcher & Offensive Systems Developer
-- Focus: Web Application Pentesting, Packet Crafting, Automation
-- OS: Arch Linux / Debian Architecture
-🛡️ Operational Vectors
-1. Web Application Penetration Testing
-Evaluating application security by identifying logical, infrastructure, and database vulnerabilities.
-Vulnerability Assessment: Deep analysis of vulnerabilities including SQL Injection (SQLi), Cross-Site Scripting (XSS), Local/Remote File Inclusion (LFI/RFI), and Broken Access Control.
-Source Code Auditing: Evaluating back-end logic in PHP and front-end architectures in JavaScript to uncover hidden entry points and vulnerable APIs.
-Database Security: Securing and auditing relational databases (MySQL) against complex exfiltration techniques.
-2. Network Security & Packet Engineering
-Analyzing low-level network interactions to develop diagnostics and auditing engines.
-Protocol Analysis: Deciphering traffic patterns, analyzing handshake sequences, and monitoring transport-layer security (TCP/UDP, HTTP/S, DNS).
-Active Auditing: Developing automated network scanners and payload delivery systems.
-3. Defensive & Offensive Software Engineering
-Using Python as a core engine to automate security tasks and build specialized desktop interfaces.
-Exploit Automation: Utilizing Python libraries (requests, socket, scapy, urllib3) to automate proof-of-concept (PoC) generation and vulnerability scanning.
-Desktop Tooling: Developing local GUI utilities (via Tkinter) for fast, desktop-driven threat diagnostics and logs analysis.
-💻 Technologies & Security Stack
-<div align="left">
-🛠️ Programming & Scripting
-![alt text](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br>
 
-![alt text](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<!-- TERMINAL ROW START -->
+<pre align="left">
+⚡ <b>SYSTEM STATUS: ACTIVE</b>
+👤 <b>USERNAME</b>      : tahaprogramming
+🎯 <b>CORE FOCUS</b>    : Web Penetration Testing & Exploit Dev
+🐍 <b>AUTOMATION</b>    : High-Speed Python Security Tooling
+🛰️ <b>NETWORKING</b>    : Deep Packet Inspection & Traffic Analysis
+💻 <b>SYSTEM ARCH</b>   : Linux (Arch / Debian Core)
+</pre>
+<!-- TERMINAL ROW END -->
 
-![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
+</p>
 
-![alt text](https://img.shields.io/badge/Bash/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-🌐 Web Core & Databases
-![alt text](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### 🛡️ Core Operational Sectors
 
-![alt text](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-![alt text](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-⚙️ Infrastructure & Control
-![alt text](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-![alt text](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-</div>
-📊 Github Telemetry & Diagnostics
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=tahaprogramming&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="100%" />
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaprogramming&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaprogramming&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Application Auditing</h4>
+      <ul>
+        <li><b>Vulnerability Research:</b> Exploiting and mitigating critical flaws (OWASP Top 10, SQLi, XSS, CSRF).</li>
+        <li><b>Source Code Analysis:</b> Auditing <b>PHP</b> and <b>JavaScript</b> bases for logical deficits and secure routing.</li>
+        <li><b>Database Hardening:</b> Analyzing and securing backend <b>MySQL</b> structures against extraction vectors.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐍 Offensive Tool Engineering</h4>
+      <ul>
+        <li><b>Python Tooling:</b> Crafting custom-tailored fuzzers, scanners, and multi-threaded discovery scripts.</li>
+        <li><b>Network Inspection:</b> Custom socket-programming, packet manipulation, and protocol monitoring.</li>
+        <li><b>Desktop Diagnostic GUIs:</b> Building local security utility hubs using standalone desktop architectures (Tkinter).</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
+</p>
+
+### 📱 Security Vector Capacities
+
+Below is the real-time resource allocation and skill capacity index for active system operations:
+
+```text
+🌐 Web Penetration Testing     [████████████████████████░░░░░] 80%
+🐍 Offensive Python Tooling    [██████████████████████████░░░] 85%
+🛜 Network Protocol Auditing   [████████████████████░░░░░░░░░] 70%
+💾 Secure Backend & DB Audit   [██████████████████████░░░░░░░] 75%
+
+🕒 System Auto-Updates (Cron Jobs)
+My daily routine, learning operations, and system updates are automated and structured via the following system crontab scheduler:
+# Active Cron Jobs for User: taha
+# Min  Hour  Day  Mon  Weekday   Command
+
+# 1. Update threat intelligence databases & security feeds
+00     08    *    *    *         ./update_sec_intel.sh --vector "web-pentesting"
+
+# 2. Deep dive into network socket traffic & analysis
+00     11    *    *    *         python3 -m scapy_sniffer --interface eth0 --audit
+
+# 3. Secure backend code auditing (PHP & JS logic tracing)
+30     14    *    *    1-5       ./audit_source_code.sh --base "php_mysql_endpoints"
+
+# 4. Automate custom payload generation and fuzzer updates
+00     18    *    *    *         python3 taha-recon-engine.py --compile-payloads
+
+# 5. Nightly system diagnostics & new vulnerability research
+00     22    *    *    *         ./research_latest_exploits.sh --log-activity
+
+[ STATUS: CRON SERVICE RUNNING ]
+```
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
+</p>
