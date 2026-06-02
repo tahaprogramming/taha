@@ -9,7 +9,6 @@
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tahaprogramming&label=SYSTEM%20RECON&color=00e5ff&style=flat-square)](https://github.com/tahaprogramming)
-[![GitHub Follow](https://img.shields.io/github/followers/tahaprogramming&label=FOLLOW&style=flat-square&color=00e5ff)](https://github.com/tahaprogramming)
 [![Active Security](https://img.shields.io/badge/Security-Offensive--Focus-red?style=flat-square)](https://github.com/tahaprogramming)
 
 </div>
