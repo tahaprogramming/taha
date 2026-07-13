@@ -84,7 +84,7 @@ My daily routine, learning operations, and system updates are automated and stru
 
 # 4. Automate custom payload generation and fuzzer updates
 00     18    *    *    *         python3 taha-recon-engine.py --compile-payloads
-
+ 
 # 5. Nightly system diagnostics & new vulnerability research
 00     22    *    *    *         ./research_latest_exploits.sh --log-activity
 
