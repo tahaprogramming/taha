@@ -1,95 +1,126 @@
-<!-- HEADER START -->
 <div align="center">
 
-# 🌌 TAHA
-### `SECURITY RESEARCHER & OFFENSIVE TOOL DEVELOPER`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:0F766E,70:4F46E5,100:0B1020&height=210&section=header&text=TAHA&fontSize=62&fontColor=F8FAFC&fontAlignY=36&desc=WEB%20PENETRATION%20TESTING%20%E2%80%A2%20OFFENSIVE%20SECURITY%20%E2%80%A2%20PYTHON%20TOOLING&descSize=13&descAlignY=60&descColor=C7D2FE&animation=fadeIn" width="100%" alt="Taha — Web Penetration Testing, Offensive Security, Python Tooling" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
+<p>
+  <a href="https://github.com/tahaprogramming">
+    <img src="https://komarev.com/ghpvc/?username=tahaprogramming&label=PROFILE%20VIEWS&color=0F766E&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/tahaprogramming?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Web%20Pentesting-4F46E5?style=flat-square&logo=owasp&logoColor=white" alt="Web penetration testing" />
+  </a>
+  <img src="https://img.shields.io/badge/Tooling-Python-0F766E?style=flat-square&logo=python&logoColor=white" alt="Python tooling" />
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tahaprogramming&label=SYSTEM%20RECON&color=00e5ff&style=flat-square)](https://github.com/tahaprogramming)
-[![Active Security](https://img.shields.io/badge/Security-Offensive--Focus-red?style=flat-square)](https://github.com/tahaprogramming)
+### Offensive-minded. Web-focused. Evidence-driven.
+
+I explore web application attack surfaces, test security boundaries, and build practical tools that make authorized penetration testing more efficient and repeatable.
 
 </div>
-<!-- HEADER END -->
 
-<br>
+---
 
-<!-- TERMINAL ROW START -->
-<pre align="left">
-⚡ <b>SYSTEM STATUS: ACTIVE</b>
-👤 <b>USERNAME</b>      : tahaprogramming
-🎯 <b>CORE FOCUS</b>    : Web Penetration Testing & Exploit Dev
-🐍 <b>AUTOMATION</b>    : High-Speed Python Security Tooling
-🛰️ <b>NETWORKING</b>    : Deep Packet Inspection & Traffic Analysis
-💻 <b>SYSTEM ARCH</b>   : Linux (Arch / Debian Core)
-</pre>
-<!-- TERMINAL ROW END -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=01%20%2F%20FOCUS%20AREAS&fontSize=23&fontColor=2DD4BF&fontAlign=50&animation=fadeIn" width="100%" alt="Focus areas" />
 
-### 🛡️ Core Operational Sectors
+</div>
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Web Application Auditing</h4>
-      <ul>
-        <li><b>Vulnerability Research:</b> Exploiting and mitigating critical flaws (OWASP Top 10, SQLi, XSS, CSRF).</li>
-        <li><b>Source Code Analysis:</b> Auditing <b>PHP</b> and <b>JavaScript</b> bases for logical deficits and secure routing.</li>
-        <li><b>Database Hardening:</b> Analyzing and securing backend <b>MySQL</b> structures against extraction vectors.</li>
-      </ul>
+      <h3>⌁ Web Penetration Testing</h3>
+      Assessing web applications for exploitable weaknesses across authentication, authorization, session management, input handling, and business logic. Using the OWASP Top 10 as a testing reference—not as a substitute for evidence.
     </td>
     <td width="50%" valign="top">
-      <h4>🐍 Offensive Tool Engineering</h4>
-      <ul>
-        <li><b>Python Tooling:</b> Crafting custom-tailored fuzzers, scanners, and multi-threaded discovery scripts.</li>
-        <li><b>Network Inspection:</b> Custom socket-programming, packet manipulation, and protocol monitoring.</li>
-        <li><b>Desktop Diagnostic GUIs:</b> Building local security utility hubs using standalone desktop architectures (Tkinter).</li>
-      </ul>
+      <h3>⌘ Offensive Tool Development</h3>
+      Building Python utilities to support reconnaissance, endpoint discovery, request testing, and controlled fuzzing—with an emphasis on clarity, repeatability, and useful output.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌕ Web & Source Analysis</h3>
+      Inspecting HTTP requests and responses, tracing application flows, and reviewing PHP and JavaScript code for trust-boundary mistakes, insecure patterns, and logic flaws.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⇄ Protocol & Traffic Inspection</h3>
+      Using Python networking and socket-level techniques to understand HTTP and related protocol behavior, troubleshoot requests, and investigate traffic in controlled environments.
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=02%20%2F%20TECH%20STACK&fontSize=23&fontColor=818CF8&fontAlign=50&animation=fadeIn" width="100%" alt="Technology stack" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,js,mysql,linux&theme=dark" alt="Python, PHP, JavaScript, MySQL, Linux" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Web%20Testing-0F766E?style=for-the-badge&logo=owasp&logoColor=white" alt="Web testing" />
+  <img src="https://img.shields.io/badge/HTTP%20Analysis-1E293B?style=for-the-badge&logo=wireshark&logoColor=67E8F9" alt="HTTP analysis" />
+  <img src="https://img.shields.io/badge/Python%20Automation-4F46E5?style=for-the-badge&logo=python&logoColor=white" alt="Python automation" />
 </p>
 
-### 📱 Security Vector Capacities
+</div>
 
-Below is the real-time resource allocation and skill capacity index for active system operations:
+---
 
-```text
-🌐 Web Penetration Testing     [████████████████████████░░░░░] 80%
-🐍 Offensive Python Tooling    [██████████████████████████░░░] 85%
-🛜 Network Protocol Auditing   [████████████████████░░░░░░░░░] 70%
-💾 Secure Backend & DB Audit   [██████████████████████░░░░░░░] 75%
+<div align="center">
 
-🕒 System Auto-Updates (Cron Jobs)
-My daily routine, learning operations, and system updates are automated and structured via the following system crontab scheduler:
-# Active Cron Jobs for User: taha
-# Min  Hour  Day  Mon  Weekday   Command
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=03%20%2F%20TESTING%20MINDSET&fontSize=23&fontColor=2DD4BF&fontAlign=50&animation=fadeIn" width="100%" alt="Testing mindset" />
 
-# 1. Update threat intelligence databases & security feeds
-00     08    *    *    *         ./update_sec_intel.sh --vector "web-pentesting"
+</div>
 
-# 2. Deep dive into network socket traffic & analysis
-00     11    *    *    *         python3 -m scapy_sniffer --interface eth0 --audit
+- **Map the attack surface:** Understand routes, inputs, roles, and trust boundaries before drawing conclusions.
+- **Validate impact:** Distinguish a suspicious behavior from a reproducible security finding.
+- **Automate carefully:** Build small tools that produce clear output and can be rerun consistently.
+- **Report usefully:** Describe reproduction conditions, realistic impact, and actionable remediation.
+- **Stay authorized:** Test only systems I own or have explicit permission to assess.
 
-# 3. Secure backend code auditing (PHP & JS logic tracing)
-30     14    *    *    1-5       ./audit_source_code.sh --base "php_mysql_endpoints"
+---
 
-# 4. Automate custom payload generation and fuzzer updates
-00     18    *    *    *         python3 taha-recon-engine.py --compile-payloads
- 
-# 5. Nightly system diagnostics & new vulnerability research
-00     22    *    *    *         ./research_latest_exploits.sh --log-activity
+<div align="center">
 
-[ STATUS: CRON SERVICE RUNNING ]
-```
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=04%20%2F%20CURRENT%20INTERESTS&fontSize=23&fontColor=818CF8&fontAlign=50&animation=fadeIn" width="100%" alt="Current interests" />
+
+</div>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://img.shields.io/badge/01-HTTP%20%26%20Sessions-0F766E?style=flat-square" alt="HTTP and sessions" /></p>
+      Request smuggling concepts, session handling, access-control testing, and how web applications enforce trust boundaries.
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://img.shields.io/badge/02-Logic%20Flaws-4F46E5?style=flat-square" alt="Logic flaws" /></p>
+      Tracing multi-step workflows and testing assumptions that ordinary input-focused checks may miss.
+    </td>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://img.shields.io/badge/03-Security%20Automation-0F766E?style=flat-square" alt="Security automation" /></p>
+      Developing maintainable Python helpers for authorized web testing and repeatable experiments.
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=05%20%2F%20PROJECTS%20%26%20RESEARCH&fontSize=23&fontColor=2DD4BF&fontAlign=50&animation=fadeIn" width="100%" alt="Projects and research" />
+
+<p>Browse my repositories for tools, experiments, and projects as they are documented and ready to share.</p>
+
+<a href="https://github.com/tahaprogramming?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:0F766E,100:4F46E5&height=100&section=footer&animation=fadeIn" width="100%" alt="Decorative animated-style footer banner" />
+
+<sub>Offensive web testing · Practical tooling · Reproducible findings</sub>
+
+</div>
